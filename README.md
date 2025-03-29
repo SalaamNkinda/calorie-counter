@@ -45,6 +45,3 @@ No installation required - just open `index.html` in your browser.
 
 Contributions are welcome! Please open an issue or pull request for any improvements.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
