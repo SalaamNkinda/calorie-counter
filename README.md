@@ -33,5 +33,7 @@ No installation required - just open `index.html` in your browser.
 ## Project Structure
    calorie-counter/
    ├── index.html # Main HTML file
+   
    ├── script.js # JavaScript functionality
+   
    └── styles.css # CSS styles
