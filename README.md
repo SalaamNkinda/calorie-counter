@@ -31,7 +31,9 @@ No installation required - just open `index.html` in your browser.
 5. Use "Clear" button to reset the form
 
 ## Project Structure
+
    calorie-counter/
+   
    ├── index.html # Main HTML file
    
    ├── script.js # JavaScript functionality
